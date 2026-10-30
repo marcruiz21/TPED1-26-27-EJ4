@@ -1,0 +1,22 @@
+body{background-color: rgb(243, 232, 190)}
+h1{
+    color: #150593;
+    text-align: center; 
+    font-size: 32px;
+}
+
+h2{color: rgb(135, 0, 0);}
+
+p {font-size: 14px;}
+
+.lista-personalizada {
+    list-style-type: square; 
+    color: #333333; 
+    font-size: 18px; 
+}
+
+#advertencia-destacada {
+    text-align: center; /* Alineación del texto */
+    border: 2px solid red; /* Borde */
+    padding: 10px; /* Modelo de cajas: relleno interior */
+}
